@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1522632752 source:e:\files\c++ projects\assignment.4.test\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<cmath>
+	"bmplib.cpp"
+	<vector>
+
+1522250828 e:\files\c++ projects\assignment.4.test\bmplib.cpp
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	"bmplib.h"
+	"unistd.h"
+
+1522250663 e:\files\c++ projects\assignment.4.test\bmplib.h
+
+1523487144 source:e:\files\c++ projects\5.assignments\assignment_4\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<cmath>
+	"bmplib.cpp"
+	<vector>
+
+1522247228 e:\files\c++ projects\5.assignments\assignment_4\bmplib.cpp
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	"bmplib.h"
+	"unistd.h"
+
+1522247063 e:\files\c++ projects\5.assignments\assignment_4\bmplib.h
+
+1524558369 source:c:\users\abdelrahman\desktop\assignment4 final\assignment 4\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<cmath>
+	"bmplib.cpp"
+	<vector>
+
+1522247230 c:\users\abdelrahman\desktop\assignment4 final\assignment 4\bmplib.cpp
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	"bmplib.h"
+	"unistd.h"
+
+1522247064 c:\users\abdelrahman\desktop\assignment4 final\assignment 4\bmplib.h
+
